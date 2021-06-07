@@ -1,4 +1,4 @@
-### Hi there, I'm Lev Shreter  
+### Hi there, I'm Lev Shreter, Nice to see you
 
 #### About:
 - Graduated with honors from professional retraining at The Bonch-Bruevich Saint-Petersburg State University of Telecommunications 
@@ -7,18 +7,21 @@
 - [My academic progress in the stepik](https://stepik.org/users/360885096)
 
 #### Links:
-- <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>[Email — schreterl@gmail.com](	schreterl@gmail.com)
-- <img align="left" alt="Telegram" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/telegram.svg"/>[Telegram](https://t.me/schroter)
-- <img align="left" alt="Instagram" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/></code>[Instagram](https://www.instagram.com/schroter)
+<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>[Email — schreterl@gmail.com](mailto:schreterl@gmail.com)
+
+<img align="left" alt="Telegram" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/telegram.svg"/>[Telegram](https://t.me/schroter)
+
+<img align="left" alt="Instagram" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/></code>[Instagram](https://www.instagram.com/schroter)
 
 
 #### Languages and tools:
-[<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/python.svg"/>
-<img align="left" alt="PyCharm" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/pycharm.svg"/>
-<img align="left" alt="Qt" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/qt.svg"/>
-<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/github.svg"/>
-<img align="left" alt="Atlassian" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/atlassian.svg"/>]
+[<img align="left" alt="Python" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/python.svg"/>]()
+[<img align="left" alt="PyCharm" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/pycharm.svg"/>]()
+[<img align="left" alt="Qt" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/qt.svg"/>]()
+[<img align="left" alt="GitHub" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/github.svg"/>]()
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/atlassian.svg' alt='Atlassian' height='33'>]()  
 
+#### Stats:
 ![Profile views](https://gpvc.arturio.dev/Shreters) 
 
 
