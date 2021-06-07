@@ -1,4 +1,4 @@
-### Hi there, I'm Lev Shreter
+### Hi there, I'm Lev Shreter  
 
 #### About:
 - Graduated with honors from professional retraining at The Bonch-Bruevich Saint-Petersburg State University of Telecommunications 
@@ -13,19 +13,27 @@
 
 
 #### Languages and tools:
-<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/python.svg"/>
+[<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/python.svg"/>
 <img align="left" alt="PyCharm" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/pycharm.svg"/>
 <img align="left" alt="Qt" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/qt.svg"/>
 <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/github.svg"/>
-<img align="left" alt="Atlassian" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/atlassian.svg"/>
+<img align="left" alt="Atlassian" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/atlassian.svg"/>]
 
-
+![Profile views](https://gpvc.arturio.dev/Shreters) 
 
 
 <!--
+https://techrocks.ru/2020/08/21/github-profile-readme/ 
+все инструменты 
 
 https://github.com/GnuriaN/format-README#%D0%9E%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5 
 edit readme format 
+
+https://www.jsdelivr.com/package/npm/simple-icons?path=icons 
+
+icons 
+https://arturssmirnovs.github.io/github-profile-readme-generator/ 
+
 
 **Shreters/Shreters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
