@@ -1,4 +1,7 @@
-### Hi there, I'm Lev Shreter, Nice to see you
+### Hey! Nice to see you.
+#### Welcome to my page! 
+I'm Lev Shreter from Saint-Petersburg, Russia
+[<img src="https://img.icons8.com/color/48/000000/russian-federation-circular.png" alt='Atlassian' height='15'>]() 
 
 #### About:
 - Graduated with honors from professional retraining at The Bonch-Bruevich Saint-Petersburg State University of Telecommunications 
@@ -7,25 +10,43 @@
 - [My academic progress in the stepik](https://stepik.org/users/360885096)
 
 #### Links:
-<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>[Email — schreterl@gmail.com](mailto:schreterl@gmail.com)
+<img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/color/96/000000/gmail-new.png"/>[Email — schreterl@gmail.com](mailto:schreterl@gmail.com)
 
-<img align="left" alt="Telegram" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/telegram.svg"/>[Telegram](https://t.me/schroter)
+<img align="left" alt="Telegram" width="23px" src="https://img.icons8.com/color/96/000000/telegram-app--v1.png"/>[Telegram](https://t.me/schroter)
 
-<img align="left" alt="Instagram" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/></code>[Instagram](https://www.instagram.com/schroter)
+<img align="left" alt="Instagram" width="23px" src="https://img.icons8.com/fluent/96/000000/instagram-new.png"/></code>[Instagram](https://www.instagram.com/schroter)
 
 
 #### Languages and tools:
-[<img align="left" alt="Python" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/python.svg"/>]()
-[<img align="left" alt="PyCharm" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/pycharm.svg"/>]()
-[<img align="left" alt="Qt" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/qt.svg"/>]()
-[<img align="left" alt="GitHub" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/github.svg"/>]()
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/atlassian.svg' alt='Atlassian' height='33'>]()  
+[<img align="left" alt="Python" width="44px" src="https://img.icons8.com/color/96/000000/python.png"/>]()
+[<img align="left" alt="PyCgarm" width="44px" src="https://img.icons8.com/color/96/000000/pycharm.png"/>]()
+[<img align="left" alt="Qt" width="42px" src="https://img.icons8.com/ios-filled/100/26e07f/qt.png"/>]()
+[<img align="left" alt="GitHub" width="42px" src="https://img.icons8.com/ios-filled/100/000000/github.png"/>]()
+[<img src="https://img.icons8.com/color/96/000000/confluence--v2.png" alt='Atlassian' height='42'>]() 
+
+
+ 
 
 #### Stats:
 ![Profile views](https://gpvc.arturio.dev/Shreters) 
 
 
 <!--
+
+-------Black version-------
+<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>[Email — schreterl@gmail.com](mailto:schreterl@gmail.com)
+
+<img align="left" alt="Telegram" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/telegram.svg"/>[Telegram](https://t.me/schroter)
+
+<img align="left" alt="Instagram" width="23px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/></code>[Instagram](https://www.instagram.com/schroter)
+
+[<img align="left" alt="Python" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/python.svg"/>]()
+[<img align="left" alt="PyCharm" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/pycharm.svg"/>]()
+[<img align="left" alt="Qt" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/qt.svg"/>]()
+[<img align="left" alt="GitHub" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/github.svg"/>]()
+c
+
+
 https://techrocks.ru/2020/08/21/github-profile-readme/ 
 все инструменты 
 
@@ -33,7 +54,7 @@ https://github.com/GnuriaN/format-README#%D0%9E%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0
 edit readme format 
 
 https://www.jsdelivr.com/package/npm/simple-icons?path=icons 
-
+https://icons8.ru/icons/set/qt
 icons 
 https://arturssmirnovs.github.io/github-profile-readme-generator/ 
 
