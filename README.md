@@ -29,10 +29,10 @@ I'm Lev Shreter from Saint-Petersburg, Russia
 
 #### Stats:
 ![Profile views](https://gpvc.arturio.dev/Shreters) 
-
+[![Codewars Badge](https://www.codewars.com/users/Schroter/badges/micro)](https://www.codewars.com/users/Schroter/)
 
 <!--
-
+[![Тут текст]
 -------Black version-------
 <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>[Email — schreterl@gmail.com](mailto:schreterl@gmail.com)
 
@@ -49,6 +49,7 @@ c
 
 https://techrocks.ru/2020/08/21/github-profile-readme/ 
 все инструменты 
+https://techrocks.ru/2021/01/23/github-profile-readme-2/ 
 
 https://github.com/GnuriaN/format-README#%D0%9E%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5 
 edit readme format 
