@@ -28,11 +28,13 @@ I'm Lev Shreter from Saint-Petersburg, Russia
  
 
 #### Stats:
-![Profile views](https://gpvc.arturio.dev/Shreters) 
+
+![](https://komarev.com/ghpvc/?username=Shreters)
 [![Codewars Badge](https://www.codewars.com/users/Schroter/badges/micro)](https://www.codewars.com/users/Schroter/)
 
 <!--
 [![Тут текст]
+![Profile views](https://gpvc.arturio.dev/Shreters)  # сломаный счетчик 200
 -------Black version-------
 <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>[Email — schreterl@gmail.com](mailto:schreterl@gmail.com)
 
@@ -46,6 +48,8 @@ I'm Lev Shreter from Saint-Petersburg, Russia
 [<img align="left" alt="GitHub" width="33px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/github.svg"/>]()
 c
 
+https://github.com/antonkomarev/github-profile-views-counter 
+views-counter 
 
 https://techrocks.ru/2020/08/21/github-profile-readme/ 
 все инструменты 
