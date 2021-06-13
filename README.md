@@ -16,12 +16,15 @@ I'm Lev Shreter from Saint-Petersburg, Russia
 
 <img align="left" alt="Instagram" width="23px" src="https://img.icons8.com/fluent/96/000000/instagram-new.png"/></code>[Instagram](https://www.instagram.com/schroter)
 
+<img align="left" alt="Twitter" width="23px" src="https://img.icons8.com/fluent/96/000000/twitter.png"/></code>[Twitter](https://twitter.com/Shreters)
+
 
 #### Languages and tools:
 [<img align="left" alt="Python" width="44px" src="https://img.icons8.com/color/96/000000/python.png"/>]()
 [<img align="left" alt="PyCgarm" width="44px" src="https://img.icons8.com/color/96/000000/pycharm.png"/>]()
 [<img align="left" alt="Qt" width="42px" src="https://img.icons8.com/ios-filled/100/26e07f/qt.png"/>]()
-[<img align="left" alt="GitHub" width="42px" src="https://img.icons8.com/ios-filled/100/000000/github.png"/>]()
+[<img align="left" alt="GitHub" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/github.svg"/>]()
+
 [<img src="https://img.icons8.com/color/96/000000/confluence--v2.png" alt='Atlassian' height='42'>]() 
 
 
@@ -31,6 +34,7 @@ I'm Lev Shreter from Saint-Petersburg, Russia
 
 ![](https://komarev.com/ghpvc/?username=Shreters)
 [![Codewars Badge](https://www.codewars.com/users/Schroter/badges/micro)](https://www.codewars.com/users/Schroter/)
+
 
 <!--
 [![Тут текст]
@@ -69,6 +73,9 @@ https://arturssmirnovs.github.io/github-profile-readme-generator/
 - [My academic progress in the stepik](https://stepik.org/users/360885096)
 - <code><img height="23" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/instagram.svg"></code> [Instagram](https://www.instagram.com/schroter)
 
+[<img align="left" alt="GitHub" width="44px" src="https://img.icons8.com/material-rounded/96/000000/github.png"/>]()
+[<img align="left" alt="GitHub" width="42px" src="https://img.icons8.com/material-sharp/170/000000/github.png"/>]()
+[<img align="left" alt="GitHub" width="42px" src="https://img.icons8.com/ios-filled/100/000000/github.png"/>]()
 
 Here are some ideas to get you started:
 
