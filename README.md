@@ -24,7 +24,8 @@ I'm Lev Shreter from Saint-Petersburg, Russia
 [<img align="left" alt="PyCgarm" width="44px" src="https://img.icons8.com/color/96/000000/pycharm.png"/>]()
 [<img align="left" alt="Qt" width="42px" src="https://img.icons8.com/ios-filled/100/26e07f/qt.png"/>]()
 [<img align="left" alt="GitHub" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.1.0/icons/github.svg"/>]()
-
+[<img align="left" alt="visualstudiocode" width="44px" src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png"/>]()
+[<img align="left" alt="jupyter" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@5.7.0/icons/jupyter.svg"/>]()
 [<img src="https://img.icons8.com/color/96/000000/confluence--v2.png" alt='Atlassian' height='42'>]() 
 
 
