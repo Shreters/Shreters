@@ -34,4 +34,4 @@ I'm Lev Shreter from Saint-Petersburg, Russia
 #### Stats:
 
 ![](https://komarev.com/ghpvc/?username=Shreters)
-[![Codewars Badge](https://www.codewars.com/users/Schroter%20/badges/micro)](https://www.codewars.com/users/Schroter/)
+[![Codewars Badge](https://www.codewars.com/users/Schroter/badges/micro)](https://www.codewars.com/users/Schroter/)
