@@ -14,8 +14,6 @@ I'm Lev Shreter from Saint-Petersburg, Russia
 
 <img align="left" alt="Telegram" width="23px" src="https://img.icons8.com/color/96/000000/telegram-app--v1.png"/>[Telegram](https://t.me/schroter)
 
-<img align="left" alt="Instagram" width="23px" src="https://img.icons8.com/fluent/96/000000/instagram-new.png"/></code>[Instagram](https://www.instagram.com/schroter)
-
 <img align="left" alt="Twitter" width="23px" src="https://img.icons8.com/fluent/96/000000/twitter.png"/></code>[Twitter](https://twitter.com/Shreters)
 
 
