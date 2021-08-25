@@ -8,6 +8,7 @@ I'm Lev Shreter from Saint-Petersburg, Russia
 - Received a professional education in car alarm programming
 - Graduated with honors from the course of the Institute of Bioinformatics «Programming in Python» 
 - [My academic progress in the stepik](https://stepik.org/users/360885096)
+- Experience in programming, setup, firmware, troubleshooting vehicle control units and alarms. 
 
 #### Links:
 <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/color/96/000000/gmail-new.png"/>[Email — schreterl@gmail.com](mailto:schreterl@gmail.com)
@@ -30,6 +31,8 @@ I'm Lev Shreter from Saint-Petersburg, Russia
  
 
 #### Stats:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreters&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![](https://komarev.com/ghpvc/?username=Shreters)
 [![Codewars Badge](https://www.codewars.com/users/Schroter/badges/micro)](https://www.codewars.com/users/Schroter/)
