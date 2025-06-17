@@ -1,17 +1,21 @@
 ### Hey! Nice to see you.
 #### Welcome to my page! 
-I'm Lev Shreter from Saint-Petersburg, Russia
-[<img src="https://img.icons8.com/color/48/000000/russian-federation-circular.png" alt='Atlassian' height='15'>]() 
+I'm Lev Shreter an operational e-commerce marketer with over 10 years of experience in marketing and digital retail.
+You can find more about my work at https://schroter.pro
 
 #### About:
-- Graduated with honors from professional retraining at The Bonch-Bruevich Saint-Petersburg State University of Telecommunications 
-- Received a professional education in car alarm programming
-- Graduated with honors from the course of the Institute of Bioinformatics «Programming in Python» 
-- [My academic progress in the stepik](https://stepik.org/users/360885096)
-- Experience in programming, setup, firmware, troubleshooting vehicle control units and alarms 
+Graduated with honors from professional retraining at The Bonch-Bruevich Saint-Petersburg State University of Telecommunications.
+Completed specialized education in car alarm programming.
+Graduated with honors from the Institute of Bioinformatics course "Programming in Python".
+Active academic progress on Stepik.
+My main professional focus is operations and e-commerce strategy.
+Programming is a personal hobby — mostly related to automotive electronics, diagnostics, and automation in vehicle systems.
+
+Experience includes programming, configuration, firmware updates, and troubleshooting of vehicle control units and car alarm systems.
+This is part hobby, part professional interest — focused on embedded systems, automation, and automotive electronics.
 
 #### Links:
-<img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/color/96/000000/gmail-new.png"/>[Email — schreterl@gmail.com](mailto:schreterl@gmail.com)
+<img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/color/96/000000/gmail-new.png"/>[Email — lev.shreter@gmail.com](mailto:lev.shreter@gmail.com)
 
 <img align="left" alt="Telegram" width="23px" src="https://img.icons8.com/color/96/000000/telegram-app--v1.png"/>[Telegram](https://t.me/schroter)
 
