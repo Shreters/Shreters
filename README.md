@@ -13,7 +13,7 @@ Python • Git • SQL • VS Code • AI
 <img align="left" alt="Instagram" width="23px" src="https://img.icons8.com/fluent/96/000000/instagram-new.png"/></code>[Instagram](https://www.instagram.com/schroter)
 
 #### Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreters&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreters&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![](https://komarev.com/ghpvc/?username=Shreters)
